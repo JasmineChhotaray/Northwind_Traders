@@ -5,6 +5,8 @@ Introduction
 -------------------------------------
 This project aims to build a AWS Metabase Dashboard visualization of Northwind Traders transactions.
 
+
+
 Relationships between Table in Northwind Data
 ----------------------------------------------
 
