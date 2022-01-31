@@ -17,3 +17,6 @@ Relationships between Table in Northwind Data
 Company Profile
 --------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55586376/151712594-f93e2f3b-bb9f-44d2-8486-3dee112cc678.png)
+
+
+![image](https://user-images.githubusercontent.com/55586376/151806243-50dcc7cf-5b03-4f68-a800-ab76070562a7.png)
